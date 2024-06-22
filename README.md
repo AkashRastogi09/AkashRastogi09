@@ -11,11 +11,7 @@ I'm currently mastering DevOps, aiming to bridge the gap between development and
     <a href="https://www.redhat.com/" target="_blank" >
     <img src="https://www.logolynx.com/images/logolynx/02/025e86036ed8636d0afdde52c7eb9b20.jpeg" height="60" />
   </a>
-  
-</p>
-
-<p float="left">
- </a>
+   </a>
     <a href="https://www.redhat.com/" target="_blank" >
     <img src="https://www.logolynx.com/images/logolynx/12/12915de338ad27d9756641b39b286ee3.png" height="60" />
   </a>
