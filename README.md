@@ -4,5 +4,5 @@ I am **Akash**, a dedicated Linux System Administrator with extensive experience
 
 I'm currently mastering DevOps, aiming to bridge the gap between development and operations as an Orchestrator of transformative solutions. My goal is to streamline workflows, enhance productivity, and drive innovation through automation and collaboration. 🚀
 
-![Red Hat Logo]( https://github.com/AkashRastogi09/AkashRastogi09/blob/main/assets/redhat_logo.png)
+
 
