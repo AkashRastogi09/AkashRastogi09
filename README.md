@@ -22,6 +22,16 @@ I'm currently mastering DevOps, aiming to bridge the gap between development and
     <img src="https://media.licdn.com/dms/image/D5612AQGrDzZwx8xCtw/article-cover_image-shrink_423_752/0/1702880752441?e=1727913600&v=beta&t=DQjLpMYdQTIqhD_Y8Cmsx76L8ASyXPBPgk7r0fP2SOI" height="70" />
   </a>
 
+   </a>
+    <a href="https://www.jenkins.io/" target="_blank" >
+    <img src="https://e7.pngegg.com/pngimages/458/372/png-clipart-man-in-gray-suit-jacket-illustration-jenkins-logo-icons-logos-emojis-tech-companies-thumbnail.png" height="70" />
+  </a>
+
+   </a>
+    <a href="https://www.gitlab.com/" target="_blank" >
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXEzNm9hY3hxOTh6aDUxZzYzNno2NTM3ZXR2bjgzOWY4dHN1YndrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hqrdSW7r1DFsDZwSnR/giphy.webp" height="70" />
+  </a>
+
 </p>
 
 
