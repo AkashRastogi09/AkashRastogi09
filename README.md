@@ -17,6 +17,11 @@ I'm currently mastering DevOps, aiming to bridge the gap between development and
     <img src="https://www.logolynx.com/images/logolynx/12/12915de338ad27d9756641b39b286ee3.png" height="70" />
   </a>
 
+   </a>
+    <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://media.licdn.com/dms/image/D5612AQGrDzZwx8xCtw/article-cover_image-shrink_423_752/0/1702880752441?e=1727913600&v=beta&t=DQjLpMYdQTIqhD_Y8Cmsx76L8ASyXPBPgk7r0fP2SOI" height="70" />
+  </a>
+
 </p>
 
 
