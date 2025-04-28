@@ -19,7 +19,7 @@ I'm currently mastering DevOps, aiming to bridge the gap between development and
 
    </a>
     <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://media.licdn.com/dms/image/D5612AQGrDzZwx8xCtw/article-cover_image-shrink_423_752/0/1702880752441?e=1727913600&v=beta&t=DQjLpMYdQTIqhD_Y8Cmsx76L8ASyXPBPgk7r0fP2SOI" height="70" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="70" />
   </a>
 
    </a>
