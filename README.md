@@ -14,7 +14,7 @@ I'm currently mastering DevOps, aiming to bridge the gap between development and
   
    </a>
     <a href="https://www.redhat.com/" target="_blank" >
-    <img src="https://www.logolynx.com/images/logolynx/12/12915de338ad27d9756641b39b286ee3.png" height="70" />
+    <img src="https://www.ezylinux.com/wp-content/uploads/2009/08/redhat-linux.png" height="70" />
   </a>
 
    </a>
