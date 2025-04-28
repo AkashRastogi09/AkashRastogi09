@@ -7,11 +7,7 @@ I'm currently mastering DevOps, aiming to bridge the gap between development and
 ### DevOps
 
 <p float="left">
- </a>
-    <a href="https://www.redhat.comm/" target="_blank" >
-    <img src="https://www.logolynx.com/images/logolynx/02/025e86036ed8636d0afdde52c7eb9b20.jpeg" height="60" />
-  </a>
-  
+
    </a>
     <a href="https://www.redhat.com/" target="_blank" >
     <img src="https://www.ezylinux.com/wp-content/uploads/2009/08/redhat-linux.png" height="70" />
