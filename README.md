@@ -8,7 +8,7 @@ I'm currently mastering DevOps, aiming to bridge the gap between development and
 
 <p float="left">
  </a>
-    <a href="https://www.redhat.com/" target="_blank" >
+    <a href="https://www.redhat.comm/" target="_blank" >
     <img src="https://www.logolynx.com/images/logolynx/02/025e86036ed8636d0afdde52c7eb9b20.jpeg" height="60" />
   </a>
   
